@@ -1,0 +1,1 @@
+<!-- jo common code hota h usse partials mai rkhte h -->
